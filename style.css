@@ -1,0 +1,24 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Comfortaa', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+header {
+    background-color: rgba(229, 84, 115, 0.10);
+    height: 850px;
+}
+
+.head-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.first-caption{
+    font-size: 80px;
+    color: #212529;
+    width: 750px;
+}
